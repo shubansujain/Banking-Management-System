@@ -8,3 +8,5 @@ Update Account Information: Modify the information of existing customers based o
 Search for a Customer: Retrieve customer details using their ID.
 Process Transactions: Perform deposit and withdrawal operations for existing accounts.
 Delete Accounts: Remove a customer’s account or clear all customer data.
+
+![Screenshot 2024-10-16 022704](https://github.com/user-attachments/assets/135fec55-288f-47f3-8f0f-f8bd85c0a6e9)
